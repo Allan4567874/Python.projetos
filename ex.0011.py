@@ -1,0 +1,5 @@
+dia=input(28)
+mes=input('de,junho')
+ano=input(2000)
+print(28,'de,junho',2000)
+print('vc naceu no dia 28 de junho de 2000         correto')
